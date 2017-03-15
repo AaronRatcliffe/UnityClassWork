@@ -1,0 +1,57 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon (TM) R9 200 Series (ID=0x6811)
+    Vendor:   ATI
+    VRAM:     2029 MB
+    Driver:   21.19.137.1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\aoi\Desktop\emking92-screamingsharks-4ac743324b87 (1)\emking92-screamingsharks-4ac743324b87\Unity\Windows_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\aoi\Desktop\emking92-screamingsharks-4ac743324b87 (1)\emking92-screamingsharks-4ac743324b87\Unity\Windows_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\aoi\Desktop\emking92-screamingsharks-4ac743324b87 (1)\emking92-screamingsharks-4ac743324b87\Unity\Windows_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\aoi\Desktop\emking92-screamingsharks-4ac743324b87 (1)\emking92-screamingsharks-4ac743324b87\Unity\Windows_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\aoi\Desktop\emking92-screamingsharks-4ac743324b87 (1)\emking92-screamingsharks-4ac743324b87\Unity\Windows_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\aoi\Desktop\emking92-screamingsharks-4ac743324b87 (1)\emking92-screamingsharks-4ac743324b87\Unity\Windows_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\aoi\Desktop\emking92-screamingsharks-4ac743324b87 (1)\emking92-screamingsharks-4ac743324b87\Unity\Windows_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\aoi\Desktop\emking92-screamingsharks-4ac743324b87 (1)\emking92-screamingsharks-4ac743324b87\Unity\Windows_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\aoi\Desktop\emking92-screamingsharks-4ac743324b87 (1)\emking92-screamingsharks-4ac743324b87\Unity\Windows_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\aoi\Desktop\emking92-screamingsharks-4ac743324b87 (1)\emking92-screamingsharks-4ac743324b87\Unity\Windows_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\aoi\Desktop\emking92-screamingsharks-4ac743324b87 (1)\emking92-screamingsharks-4ac743324b87\Unity\Windows_Data\Managed\Pathfinder.dll (this message is harmless)
+Loading C:\Users\aoi\Desktop\emking92-screamingsharks-4ac743324b87 (1)\emking92-screamingsharks-4ac743324b87\Unity\Windows_Data\Managed\Pathfinder.dll into Unity Child Domain
+- Completed reload, in  0.024 seconds
+Platform assembly: C:\Users\aoi\Desktop\emking92-screamingsharks-4ac743324b87 (1)\emking92-screamingsharks-4ac743324b87\Unity\Windows_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\aoi\Desktop\emking92-screamingsharks-4ac743324b87 (1)\emking92-screamingsharks-4ac743324b87\Unity\Windows_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 59Hz; virtual: 4640x1087 at -1440,-7
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Menu Button Management') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 1.138557 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.672878 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 2237.
+Total: 0.679452 ms (FindLiveObjects: 0.104328 ms CreateObjectMapping: 0.104328 ms MarkObjects: 0.462319 ms  DeleteObjects: 0.007890 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.735561 ms
+
+Unloading 1803 unused Assets to reduce memory usage. Loaded Objects now: 782.
+Total: 1.020493 ms (FindLiveObjects: 0.126831 ms CreateObjectMapping: 0.130337 ms MarkObjects: 0.461443 ms  DeleteObjects: 0.301296 ms)
+
+The referenced script on this Behaviour (Game Object 'Menu Button Management') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.479598 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 598.
+Total: 0.765077 ms (FindLiveObjects: 0.060493 ms CreateObjectMapping: 0.026301 ms MarkObjects: 0.414392 ms  DeleteObjects: 0.263306 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1ed8 -> priority: 1 
